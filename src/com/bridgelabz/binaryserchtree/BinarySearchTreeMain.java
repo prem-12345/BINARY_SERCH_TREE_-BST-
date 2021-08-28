@@ -24,6 +24,8 @@ public class BinarySearchTreeMain {
 
         bst.print(root);
 
+        System.out.println(bst.nodePresent(root, 63));
+
 
     }
 }
